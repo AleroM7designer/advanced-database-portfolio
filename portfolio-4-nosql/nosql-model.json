@@ -1,0 +1,22 @@
+{
+  "organisation": "Fashion Passion",
+  "document_type": "Product Catalog Model",
+  "product_id": "FP-PROD-001",
+  "product_name": "Designer Leather Jacket",
+  "category": "Apparel",
+  "price": 129.99,
+  "stock_quantity": 45,
+  "dynamic_attributes": {
+    "sizes_available": ["S", "M", "L", "XL"],
+    "colors": ["Black", "Brown"],
+    "material": "100% Genuine Leather"
+  },
+  "reviews": [
+    {
+      "user_id": "USER-102",
+      "rating": 5,
+      "comment": "Exceptional quality and fits perfectly!",
+      "date": "2026-10-30"
+    }
+  ]
+}
